@@ -41,4 +41,4 @@ solution has 15 selected elements; the first is 484 and the last is 1296
 
 #### HISTORY 
 - August 31, 2026 - README.md File Created, Google Colab Solutions Notebook Uploaded
-- September 1, 2026 - Updated README.MD File, Google Colab Solutions Notebook Updated
+- September 1, 2026 - README.MD File Updated, Google Colab Solutions Notebook Updated
