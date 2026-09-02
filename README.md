@@ -167,4 +167,4 @@ np.save("above_mean",above_mean)
 #### HISTORY 
 - August 31, 2026 - README.md File Created, Google Colab Solutions Notebook Uploaded
 - September 1, 2026 - README.md File Updated, Google Colab Solutions Notebook Updated
-- September 2, 2026 - README.md FIle Problem A,B,C Updated, Uploaded .npy Files
+- September 2, 2026 - README.md File Updated, Problem A,B,C Updated, Uploaded X_normalized.npy, div_by_4.npy, above_mean.npy Files
