@@ -145,7 +145,7 @@ S_mean = np.mean(S)
 ```
 To get the mean of the array `S` we can call the numpy function `np.mean()` and assign it to the variable name `S_mean`
 python
-```
+```python
 above_mean = S[S > S_mean]
 ```
 To get the elements inside the array `S` which has greater values than the mean of the array `S` we can use `S[S > S_mean]` which basically means to get the elements which has a greater value than the calculated mean and assign it to the variable name `above_mean`
